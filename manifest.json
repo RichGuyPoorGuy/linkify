@@ -1,7 +1,7 @@
 
 {
     "manifest_version": 3,
-    "name": "Quick Link Manager",
+    "name": "Linkify",
     "version": "1.0.0",
     "description": "Organize and manage your favorite links",
     "permissions": ["storage"],
